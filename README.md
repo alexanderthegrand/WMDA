@@ -43,7 +43,7 @@ The broadness of the goal and purpose, makes the actual process of this project 
 Objective ambiguity resolution is more difficult to display when a project is being completed purely out of one's own interest. This is indeed an underlying purpose of the project.
 
 
-![Thank you](https://i.imgur.com/2Gqk0Us.mp4)
+![Thank you](https://i.imgur.com/WWBhbvb.gif)
 
 
 *Thank you for reading*
