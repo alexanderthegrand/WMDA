@@ -1,5 +1,9 @@
-# WMDA
-## World Market Data Analysis.
+# World_Market_Data_Analysis (WMDA)
+## Compare different countries across a wide variety of features, over time
+### Intended Perspective:  A consultant advising a Tech client on Market Entry/Expansion
+*'Tech' is very broadly defined here as anywhere from a componenet manufacturer, or software development company*
+
+
 > Data collected from WorldBank, consisting of over 45 countries, with 75 features, across 25 years
 
 > Language utilized:   Python
