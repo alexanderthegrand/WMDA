@@ -1,8 +1,10 @@
 # World_Market_Data_Analysis (WMDA)
+> ### Compare different countries across a wide variety of features, over time (unsupervised)
 
-[In-Depth Project Overview and Background](https://towardsdatascience.com/python-data-science-analytics-consulting-project-overview-c35739820b5c)
+> [In-Depth Project Overview and Background](https://towardsdatascience.com/python-data-science-analytics-consulting-project-overview-c35739820b5c)
 
-## Compare different countries across a wide variety of features, over time
+### Please consider taking a brief look at [one aspect of the project](https://github.com/alexanderthegrand/WMDA/blob/master/Standardization%20and%20PCA.ipynb)*
+>> ***Note that all visualizations are FAR from final products**
 
 ### Intended Perspective:  **A consultant advising a Tech client on Market Entry/Expansion**
 > "Tech" is very broadly defined here as anywhere from a componenet manufacturer, or software development company*
