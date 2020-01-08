@@ -3,7 +3,7 @@
 
 > [In-Depth Project Overview and Background](https://towardsdatascience.com/python-data-science-analytics-consulting-project-overview-c35739820b5c)
 
-### Please consider taking a brief look at [one aspect of the project](https://github.com/alexanderthegrand/WMDA/blob/master/Standardization%20and%20PCA.ipynb)*
+### Please consider taking a brief look at [part of the project](https://github.com/alexanderthegrand/WMDA/blob/master/WorldMarketData-%20Principal%20Components%20Processed%20and%20Scaled.ipynb)*
 >> ***Note that all visualizations are FAR from final products**
 
 ### Intended Perspective:  **A consultant advising a Tech client on Market Entry/Expansion**
